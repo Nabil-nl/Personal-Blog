@@ -35,15 +35,6 @@ Le développement doit utiliser la programmation orientée objet en PHP 8 et PDO
 
 - **Soutenance** : Durée de 30 minutes, présentation du projet et réponses aux questions du formateur en groupe.
 
-## Livrables
-
-- Un lien vers le design Figma de l'interface utilisateur.
-- Un lien vers le dépôt GitHub contenant :
-  - Un PDF avec les diagrammes UML (diagrammes de cas d'utilisation, diagrammes de séquence, diagrammes de classes).
-  - Les fichiers HTML, CSS et JavaScript pour l'interface utilisateur.
-  - Le code PHP avec la gestion de sessions, d'authentification et d'autorisation.
-  - Le script SQL de création de la base de données MySQL.
-  - Un fichier README expliquant le fonctionnement du projet et les instructions d'installation.
 
 ## Critères de Performance
 
